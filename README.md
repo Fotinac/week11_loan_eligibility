@@ -1,4 +1,4 @@
-## Live App [Click to open the app](https://your-streamlit-url.streamlit.app) 
+## Live App [Click to open the app](https://week11loaneligibility-fjxcwrbxlbtvvsq8gvtsbj.streamlit.app) 
 
 # Credit Loan Eligibility Predictor
 
